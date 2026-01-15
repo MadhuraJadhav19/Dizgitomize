@@ -1,1 +1,1 @@
-# Dizgitomize
+# Digitomize
